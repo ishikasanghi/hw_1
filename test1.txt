@@ -1,0 +1,58 @@
+Last login: Sun Jan  9 21:51:57 on ttys001
+(base) Ishikas-MacBook-Air:~ ishikasanghi$ ls
+205494825_stats20_hw5.Rmd	Movies
+205494825_stats20_hw5.html	Music
+Applications			Pictures
+Creative Cloud Files		Public
+Desktop				Rplot.pdf
+Documents			femaleMiceWeights.csv
+Downloads			github
+Library				msleep_ggplot2.csv
+Midterm 1 Practice Qs.Rmd	opt
+Midterm-1-Practice-Qs.html	tmp
+(base) Ishikas-MacBook-Air:~ ishikasanghi$ pwd
+/Users/ishikasanghi
+(base) Ishikas-MacBook-Air:~ ishikasanghi$ cd Documents
+(base) Ishikas-MacBook-Air:Documents ishikasanghi$ cd UCLA/
+(base) Ishikas-MacBook-Air:UCLA ishikasanghi$ cd Winter\ 2022
+(base) Ishikas-MacBook-Air:Winter 2022 ishikasanghi$ cd Stats\ 21/
+(base) Ishikas-MacBook-Air:Stats 21 ishikasanghi$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.DS_Store
+	Hw 1/
+	test.txt.save
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) Ishikas-MacBook-Air:Stats 21 ishikasanghi$ git clone https://github.com/ishikasanghi/hw_1.git
+fatal: destination path 'hw_1' already exists and is not an empty directory.
+(base) Ishikas-MacBook-Air:Stats 21 ishikasanghi$ cd hw_1
+(base) Ishikas-MacBook-Air:hw_1 ishikasanghi$ ls
+(base) Ishikas-MacBook-Air:hw_1 ishikasanghi$ nano test1.txt
+
+  GNU nano 2.0.6              File: test1.txt                         Modified  
+
+Hello this is the first document.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
